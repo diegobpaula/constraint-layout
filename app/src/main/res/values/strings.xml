@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notícias</string>
+    <string name="titulo_noticia">Ciência busca na imunidade respostas para saída da Covid-19</string>
+    <string name="data_titulo">29/05/2020</string>
+    <string name="texto_noticia">É possível estar protegido contra o novo coronavírus, devido a um resfriado anterior? Que percentual da população produziu anticorpos contra a doença? A ciência continua buscando respostas sobre a imunidade, o que pode ser essencial para evitar uma segunda onda pandêmica.
+
+“O fato de os casos de COVID-19 não terem aumentado após o relaxamento do confinamento em muitos países é intrigante”, admite o dr. François Balloux, da University College, de Londres, no Twitter.
+
+Uma das explicações possíveis é que “um percentual da população possui imunidade preexistente ao SARS-CoV-2”, aponta.</string>
+    <string name="btn_proximo">Próximo</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="txt_nome">Diego B. de Paula</string>
+</resources>
